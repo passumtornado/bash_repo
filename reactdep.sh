@@ -7,9 +7,6 @@ sudo apt-get update
 #install ngnix
 sudo apt-get install nginx -y
 
-#restart nginx
-sudo systemctl restart nginx
-
 
 #install nodejs ubuntu
 sudo apt-get install curl
